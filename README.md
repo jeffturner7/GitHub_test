@@ -1,7 +1,6 @@
 # GitHub_test
 
-## This is a second level heading
+## This is the test branch
 
-### Third level heading
+### It will be separate from the main
 
-Now let's commit!
